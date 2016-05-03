@@ -1,0 +1,9 @@
+About Susan Spencer:
+
+Product developer for Valentina open source pattern drafting software. 
+
+Susan is a former network security analyst turned patternmaker.  She has analyzed over 50 different patternmaking systems and developed a ground breaking method for creating and fitting patterns.  In 2011 she created a prototype software program to created custom-fit patterns.  In 2014 she and Roman Telezhynskyi teamed up to develop the full-featured patternmaking software program Valentina. 
+
+Currently Valentina software is translated into over 13 languages and has over 800 users worldwide. Valentina is in beta development, which means that new tools and features are in development, including 3D design.  
+
+Check out Valentina's website at www.ValentinaProject.org to download the software and find out more.
